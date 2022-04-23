@@ -1,0 +1,14 @@
+lrwxrwxrwx.   1 root root    7 Apr 16 15:19 bin -> usr/bin
+dr-xr-xr-x.   4 root root 4096 Apr 16 20:33 boot
+drwxr-xr-x   20 root root 3220 Apr 22 21:13 dev
+drwxr-xr-x.  77 root root 8192 Apr 16 20:43 etc
+drwxr-xr-x.   6 root root   88 Apr 16 20:56 git-docs
+drwxr-xr-x.   2 root root    6 Mar 10  2016 home
+lrwxrwxrwx.   1 root root    7 Apr 16 15:19 lib -> usr/lib
+lrwxrwxrwx.   1 root root    9 Apr 16 15:19 lib64 -> usr/lib64
+drwxr-xr-x.   2 root root    6 Mar 10  2016 media
+drwxr-xr-x.   2 root root    6 Mar 10  2016 mnt
+drwxr-xr-x.   2 root root    6 Mar 10  2016 opt
+dr-xr-xr-x  193 root root    0 Apr 22 21:13 proc
+drwxr-xr-x.   5 root root   50 Apr 18 15:19 project
+drwxr-xr-x.   3 root root   18 Apr 16 20:58 raju
