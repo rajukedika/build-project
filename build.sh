@@ -22,6 +22,12 @@
 /usr/sbin/parted -l >> /tmp/systeminfo
 /usr/bin/netstat -rn >> /tmp/systeminfo
 /usr/bin/df -h >> /tmp/systeminfo
+/usr/bin/uname -a >> /tmp/systeminfo
+/usr/bin/uptime >> /tmp/systeminfo
+/usr/bin/ps -ef >> /tmp/systeminfo
+/usr/bin/cat /etc/fstab >> /tmp/systeminfo
+/usr/bin/cat /etc/mtab >> /tmp/systeminfo
+
 
 /usr/bin/echo "=========================================USER INFO==============================================" >> /tmp/systeminfo
 /usr/bin/cat /etc/passwd >> /tmp/systeminfo
